@@ -51,6 +51,7 @@ We welcome contributions from the community to enhance the functionality and usa
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+Thanks
 
 *Note: This README provides a high-level overview of the Pixel/Image Detector Bot. For detailed instructions and usage, please refer to the documentation and code within the repository.*
 
